@@ -1,0 +1,12 @@
+/Users/nikitagalaganov/Downloads/oop21-lab3-csharp-main/OOP-lab3/obj/Debug/netcoreapp3.1/OOP-lab3.csproj.AssemblyReference.cache
+/Users/nikitagalaganov/Downloads/oop21-lab3-csharp-main/OOP-lab3/obj/Debug/netcoreapp3.1/OOP-lab3.AssemblyInfoInputs.cache
+/Users/nikitagalaganov/Downloads/oop21-lab3-csharp-main/OOP-lab3/obj/Debug/netcoreapp3.1/OOP-lab3.AssemblyInfo.cs
+/Users/nikitagalaganov/Downloads/oop21-lab3-csharp-main/OOP-lab3/obj/Debug/netcoreapp3.1/OOP-lab3.csproj.CoreCompileInputs.cache
+/Users/nikitagalaganov/Downloads/oop21-lab3-csharp-main/OOP-lab3/bin/Debug/netcoreapp3.1/OOP-lab3.deps.json
+/Users/nikitagalaganov/Downloads/oop21-lab3-csharp-main/OOP-lab3/bin/Debug/netcoreapp3.1/OOP-lab3.runtimeconfig.json
+/Users/nikitagalaganov/Downloads/oop21-lab3-csharp-main/OOP-lab3/bin/Debug/netcoreapp3.1/OOP-lab3.runtimeconfig.dev.json
+/Users/nikitagalaganov/Downloads/oop21-lab3-csharp-main/OOP-lab3/bin/Debug/netcoreapp3.1/OOP-lab3.dll
+/Users/nikitagalaganov/Downloads/oop21-lab3-csharp-main/OOP-lab3/bin/Debug/netcoreapp3.1/OOP-lab3.pdb
+/Users/nikitagalaganov/Downloads/oop21-lab3-csharp-main/OOP-lab3/obj/Debug/netcoreapp3.1/OOP-lab3.dll
+/Users/nikitagalaganov/Downloads/oop21-lab3-csharp-main/OOP-lab3/obj/Debug/netcoreapp3.1/OOP-lab3.pdb
+/Users/nikitagalaganov/Downloads/oop21-lab3-csharp-main/OOP-lab3/obj/Debug/netcoreapp3.1/OOP-lab3.genruntimeconfig.cache
